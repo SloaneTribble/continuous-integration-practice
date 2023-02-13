@@ -1,1 +1,2 @@
+[![.github/workflows/actions.yml](https://github.com/SloaneTribble/continuous-integration-practice/actions/workflows/actions.yml/badge.svg)](https://github.com/SloaneTribble/continuous-integration-practice/actions/workflows/actions.yml)
 # continuous-integration-practice
